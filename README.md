@@ -1,36 +1,43 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%90%8B+I'm+Krishna+Gupta;AI+%26+Data+Science+Engineer;Building+Intelligent+Systems+%26+Deep+Learning+Models;Exploring+Generative+AI%2C+NLP+%26+LLMs;C%2B%2B+%26+Python+Developer" alt="Typing SVG" />
+  <!-- SVG Header Banner -->
+  <img src="header.svg" width="100%" alt="Krishna Gupta Header Banner" />
+
+  <br/><br/>
+
+  <!-- Dynamic Typing SVG Banner -->
+  <a href="https://github.com/KGupta171025">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Hi+%F0%9F%90%8B+I'm+Krishna+Gupta;AI+%26+Data+Science+Engineer;Building+Intelligent+AI+Systems+%26+Deep+Learning+Models;Exploring+Generative+AI%2C+NLP+%26+LLMs;C%2B%2B+%26+Python+Developer" alt="Typing SVG Banner" />
+  </a>
 
   <br />
 
-  <!-- Social & Quick Badges -->
-  <a href="https://linkedin.com/in/krishnaofficialgupta">
+  <!-- Social & Quick Action Badges -->
+  <a href="https://linkedin.com/in/krishnaofficialgupta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://kgupta171025.github.io/Krishna-Gupta-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://kgupta171025.github.io/Krishna-Gupta-Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
   <a href="mailto:kgupta.171025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
-  <a href="https://instagram.com/kgupta_official">
+  <a href="https://instagram.com/kgupta_official" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
   <br/><br/>
 
-  <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=KGupta171025&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Location-Bhopal%2C%20MP%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Roles%20%26%20Internships-success?style=flat-square" alt="Status" />
+  <!-- Status & Profile Visitor Badges -->
+  <img src="https://komarev.com/ghpvc/?username=KGupta171025&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
+  <img src="https://img.shields.io/badge/Location-Bhopal%2C%20MP%2C%20India-0969da?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20AI%2FML%20Roles%20%26%20Internships-238636?style=flat-square" alt="Status" />
 
 </div>
 
 <hr />
 
-## 👨‍💻 About Me
+## 👨‍💻 Executive Summary
 
 ```yaml
 Name: Krishna Gupta
@@ -41,18 +48,18 @@ Languages: Python, C++, SQL, JavaScript, Solidity
 Passionate About: Designing intelligent autonomous agents, neural consensus engines & predictive data models
 ```
 
-- 🔭 **Currently Working On**: **KALKI-1.5** (Enterprise AI Intelligence Operating System integrating LLMs, vLLM & Autonomous Multi-Agents) & **AYU-1.5**.
-- 🌱 **Currently Learning**: Advanced Transformer Architectures, Distributed Deep Learning Training & Hybrid RAG Pipelines.
-- 👯 **Looking to Collaborate On**: Open-source AI/ML frameworks, Computer Vision applications & Data Science benchmarks.
-- 💬 **Ask Me About**: Python, Machine Learning models, Neural Networks, NLP, Data Visualization (Power BI & Excel), and C++ Data Structures & Algorithms.
-- ⚡ **Fun Fact**: I bridge theoretical AI research with production-grade engineering to build systems that scale!
+- 🔭 **Currently Building**: **[KALKI-1.5](https://github.com/KGupta171025/KALKI-1.5)** — An Enterprise Intelligence Operating System (eIOS) combining LLMs, vLLM, autonomous multi-agents, hybrid RAG, and defensive cybersecurity mechanisms.
+- 🌱 **Deepening Expertise In**: Advanced Transformer Architectures, Distributed Model Training, Computer Vision & Hybrid RAG Pipelines.
+- 👯 **Open for Collaboration**: High-impact Open Source AI/ML systems, NLP frameworks, and Data Science benchmarks.
+- 💬 **Ask Me About**: Machine Learning models, Neural Networks, NLP, Data Visualization (Power BI & Excel), and C++ Data Structures & Algorithms.
+- ⚡ **Engineering Philosophy**: Bridging theoretical AI research with production-grade engineering to build reliable, high-performance intelligent systems.
 
 ---
 
-## 🛠️ Tech Stack & Skills Matrix
+## 🛠️ Tech Stack & Core Competencies
 
-### 🧠 Artificial Intelligence & Data Science
-<p>
+### 🧠 Artificial Intelligence, Machine Learning & Deep Learning
+<p fill="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
@@ -60,11 +67,10 @@ Passionate About: Designing intelligent autonomous agents, neural consensus engi
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
 ### 💻 Programming Languages & Blockchain
-<p>
+<p fill="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -74,11 +80,19 @@ Passionate About: Designing intelligent autonomous agents, neural consensus engi
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### 🔧 Tools, Cloud & Environments
-<p>
+### 📊 Data Analytics, Business Intelligence & Visualization
+<p fill="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+</p>
+
+### 🔧 Tools, Cloud & Development Environments
+<p fill="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -94,11 +108,11 @@ Passionate About: Designing intelligent autonomous agents, neural consensus engi
       <h3 align="center">🤖 KALKI-1.5</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI%20OS-vLLM-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Enterprise%20AI-vLLM-purple?style=flat-square" />
       </p>
-      <p>Enterprise Artificial Intelligence Operating System combining LLMs, vLLM, autonomous multi-agent orchestration, hybrid RAG, and defensive cybersecurity mechanisms.</p>
+      <p>Enterprise Artificial Intelligence Operating System (eIOS) combining LLMs, vLLM acceleration, autonomous multi-agent orchestration, hybrid RAG, and defensive cybersecurity protocols.</p>
       <p align="center">
-        <a href="https://github.com/KGupta171025/KALKI-1.5"><b>View Repository »</b></a>
+        <a href="https://github.com/KGupta171025/KALKI-1.5"><b>Explore Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -107,9 +121,9 @@ Passionate About: Designing intelligent autonomous agents, neural consensus engi
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/AI-Healthcare-green?style=flat-square" />
       </p>
-      <p>AI-driven medical and diagnostic intelligence application designed to process health telemetry, symptoms, and intelligent wellness recommendations.</p>
+      <p>AI-powered medical and diagnostic intelligence application designed to analyze health telemetry, symptom patterns, and generate actionable medical insight recommendations.</p>
       <p align="center">
-        <a href="https://github.com/KGupta171025/AYU-1.5"><b>View Repository »</b></a>
+        <a href="https://github.com/KGupta171025/AYU-1.5"><b>Explore Repository »</b></a>
       </p>
     </td>
   </tr>
@@ -118,22 +132,22 @@ Passionate About: Designing intelligent autonomous agents, neural consensus engi
       <h3 align="center">⛓️ Neural-Consensus-Engine</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blockchain-AI-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Blockchain-Web3%20AI-blue?style=flat-square" />
       </p>
-      <p>Decentralized AI consensus layer leveraging smart contracts and neural verification protocols for secure multi-party AI execution.</p>
+      <p>Decentralized AI consensus engine leveraging smart contracts and neural verification protocols for secure, decentralized multi-party AI task validation.</p>
       <p align="center">
-        <a href="https://github.com/KGupta171025/Neural-Consensus-Engine"><b>View Repository »</b></a>
+        <a href="https://github.com/KGupta171025/Neural-Consensus-Engine"><b>Explore Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📝 RNN_Poetry_Generation</h3>
+      <h3 align="center">📜 RNN_Poetry_Generation</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Deep%20Learning-RNN-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deep%20Learning-RNN%20%2F%20LSTM-red?style=flat-square" />
       </p>
-      <p>Recurrent Neural Network (RNN / LSTM) model trained for creative natural language generation, producing structured poetry with learned stylistic rhythm.</p>
+      <p>Recurrent Neural Network (RNN / LSTM) model built for automated natural language generation, synthesizing creative poetic text with learned cadence and vocabulary.</p>
       <p align="center">
-        <a href="https://github.com/KGupta171025/RNN_Poetry_Generation"><b>View Repository »</b></a>
+        <a href="https://github.com/KGupta171025/RNN_Poetry_Generation"><b>Explore Repository »</b></a>
       </p>
     </td>
   </tr>
@@ -142,22 +156,22 @@ Passionate About: Designing intelligent autonomous agents, neural consensus engi
       <h3 align="center">📊 OIBSIP Data Science Portfolio</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data%20Science-Oasis%20Infobyte-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Analytics-Oasis%20Infobyte-orange?style=flat-square" />
       </p>
-      <p>Comprehensive collection of data analysis, exploratory data analysis (EDA), predictive modeling, and machine learning projects built during Oasis Infobyte internship.</p>
+      <p>Comprehensive repository of machine learning, data cleaning, exploratory data analysis (EDA), and predictive modeling projects completed during Oasis Infobyte Internship.</p>
       <p align="center">
-        <a href="https://github.com/KGupta171025/OIBSIP"><b>View Repository »</b></a>
+        <a href="https://github.com/KGupta171025/OIBSIP"><b>Explore Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🌐 Interactive Web Portfolio</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen?style=flat-square" />
       </p>
-      <p>Sleek, responsive web portfolio highlighting project showcases, interactive resume, skill breakdowns, and contact interfaces.</p>
+      <p>Interactive web application showcasing project portfolios, engineering timeline, tech stack breakdown, and direct contact options.</p>
       <p align="center">
-        <a href="https://kgupta171025.github.io/Krishna-Gupta-Portfolio"><b>Live Demo »</b></a> | 
+        <a href="https://kgupta171025.github.io/Krishna-Gupta-Portfolio" target="_blank"><b>Live Demo »</b></a> | 
         <a href="https://github.com/KGupta171025/Krishna-Gupta-Portfolio"><b>Code »</b></a>
       </p>
     </td>
@@ -166,7 +180,7 @@ Passionate About: Designing intelligent autonomous agents, neural consensus engi
 
 ---
 
-## 📊 GitHub Analytics & Statistics
+## 📊 Dynamic GitHub Activity & Metrics
 
 <div align="center">
   <br />
@@ -197,5 +211,5 @@ Passionate About: Designing intelligent autonomous agents, neural consensus engi
 
 <div align="center">
   <sub><i>"The best way to predict the future is to invent it with Code &amp; Intelligence."</i></sub><br/>
-  <sub>© 2026 Krishna Gupta. Built with ❤️ &amp; AI</sub>
+  <sub>© 2026 Krishna Gupta. Built with passion &amp; Artificial Intelligence.</sub>
 </div>
