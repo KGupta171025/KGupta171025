@@ -1,0 +1,112 @@
+<svg fill="none" viewBox="0 0 800 220" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #0d1117 100%);
+          border: 1px solid #30363d;
+          border-radius: 12px;
+          padding: 30px 40px;
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+          color: #c9d1d9;
+          box-sizing: border-box;
+          height: 220px;
+          position: relative;
+          overflow: hidden;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+        }
+        
+        .bg-glow {
+          position: absolute;
+          top: -50px;
+          right: -50px;
+          width: 250px;
+          height: 250px;
+          background: radial-gradient(circle, rgba(56, 139, 253, 0.15) 0%, rgba(0, 0, 0, 0) 70%);
+          border-radius: 50%;
+          pointer-events: none;
+        }
+
+        .bg-glow-2 {
+          position: absolute;
+          bottom: -50px;
+          left: -50px;
+          width: 250px;
+          height: 250px;
+          background: radial-gradient(circle, rgba(163, 113, 247, 0.15) 0%, rgba(0, 0, 0, 0) 70%);
+          border-radius: 50%;
+          pointer-events: none;
+        }
+
+        .title {
+          font-size: 32px;
+          font-weight: 800;
+          background: linear-gradient(90deg, #58a6ff, #bc8cff, #3fb950);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          margin: 0 0 8px 0;
+          letter-spacing: -0.5px;
+        }
+
+        .subtitle {
+          font-size: 16px;
+          color: #8b949e;
+          font-weight: 500;
+          margin-bottom: 20px;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+        }
+
+        .tag-container {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 8px;
+        }
+
+        .tag {
+          background: rgba(110, 118, 129, 0.1);
+          border: 1px solid rgba(240, 246, 252, 0.1);
+          color: #58a6ff;
+          padding: 4px 12px;
+          border-radius: 20px;
+          font-size: 12px;
+          font-weight: 600;
+          letter-spacing: 0.3px;
+        }
+
+        .tag.purple {
+          color: #bc8cff;
+          border-color: rgba(188, 140, 255, 0.2);
+        }
+
+        .tag.green {
+          color: #3fb950;
+          border-color: rgba(63, 185, 80, 0.2);
+        }
+
+        .tag.orange {
+          color: #ffa657;
+          border-color: rgba(255, 166, 87, 0.2);
+        }
+      </style>
+      <div class="container">
+        <div class="bg-glow"></div>
+        <div class="bg-glow-2"></div>
+        <div class="title">Krishna Gupta</div>
+        <div class="subtitle">
+          <span>AI &amp; Data Science Engineer</span> • 
+          <span>Machine Learning &amp; Deep Learning Practitioner</span>
+        </div>
+        <div class="tag-container">
+          <span class="tag">🤖 Artificial Intelligence</span>
+          <span class="tag purple">🧠 Deep Learning &amp; NLP</span>
+          <span class="tag green">📊 Data Science &amp; Analytics</span>
+          <span class="tag orange">⚡ C++ &amp; Python Developer</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
