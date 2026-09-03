@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/krishnaofficialgupta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://kgupta171025.github.io/Krishna-Gupta-Portfolio" target="_blank">
+  <a href="https://kgupta.is-a.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
   <a href="mailto:kgupta.171025@gmail.com">
@@ -45,7 +45,7 @@ Role: AI & Data Science Engineer | Machine Learning Specialist
 Location: Bhopal, Madhya Pradesh, India
 Core Focus: Artificial Intelligence, Deep Learning, NLP, Generative AI & Data Analytics
 Languages: Python, C++, SQL, JavaScript, Solidity
-Passionate About: Designing intelligent autonomous agents, neural consensus engines & predictive data models
+Passion: Designing intelligent autonomous agents, neural consensus engines & predictive data models
 ```
 
 - 🔭 **Currently Building**: **[KALKI-1.5](https://github.com/KGupta171025/KALKI-1.5)** — An Enterprise Intelligence Operating System (eIOS) combining LLMs, vLLM, autonomous multi-agents, hybrid RAG, and defensive cybersecurity mechanisms.
@@ -105,25 +105,29 @@ Passionate About: Designing intelligent autonomous agents, neural consensus engi
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🌐 Krishna-Gupta-Portfolio</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Live%20Demo-kgupta.is--a.dev-brightgreen?style=flat-square" />
+      </p>
+      <p>Interactive 3D portfolio & resume showcasing journey in Data Science, AI, Machine Learning, Deep Learning, NLP, LLMs, Python, Generative AI, Computer Vision, and Software Development.</p>
+      <p align="center">
+        <a href="https://kgupta.is-a.dev" target="_blank"><b>Live Demo »</b></a> | 
+        <a href="https://github.com/KGupta171025/Krishna-Gupta-Portfolio"><b>Code »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🤖 KALKI-1.5</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Enterprise%20AI-vLLM-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Multi--Agent-Hybrid%20RAG-blue?style=flat-square" />
       </p>
-      <p>Enterprise Artificial Intelligence Operating System (eIOS) combining LLMs, vLLM acceleration, autonomous multi-agent orchestration, hybrid RAG, and defensive cybersecurity protocols.</p>
+      <p>KALKI AI (Krishna Artificial Lattice Keystone Intelligence) is an Enterprise Intelligence Operating System (eIOS) combining LLMs, VLMs, autonomous multi-agents, hybrid RAG, and defensive cybersecurity.</p>
       <p align="center">
-        <a href="https://github.com/KGupta171025/KALKI-1.5"><b>Explore Repository »</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌿 AYU-1.5</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-Healthcare-green?style=flat-square" />
-      </p>
-      <p>AI-powered medical and diagnostic intelligence application designed to analyze health telemetry, symptom patterns, and generate actionable medical insight recommendations.</p>
-      <p align="center">
-        <a href="https://github.com/KGupta171025/AYU-1.5"><b>Explore Repository »</b></a>
+        <a href="https://kgupta171025.github.io/KALKI-1.5/" target="_blank"><b>Live Demo »</b></a> | 
+        <a href="https://github.com/KGupta171025/KALKI-1.5"><b>Code »</b></a>
       </p>
     </td>
   </tr>
@@ -133,6 +137,7 @@ Passionate About: Designing intelligent autonomous agents, neural consensus engi
       <p align="center">
         <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
         <img src="https://img.shields.io/badge/Blockchain-Web3%20AI-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Smart%20Contracts-Ethereum-627EEA?style=flat-square&logo=ethereum&logoColor=white" />
       </p>
       <p>Decentralized AI consensus engine leveraging smart contracts and neural verification protocols for secure, decentralized multi-party AI task validation.</p>
       <p align="center">
@@ -140,39 +145,42 @@ Passionate About: Designing intelligent autonomous agents, neural consensus engi
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📜 RNN_Poetry_Generation</h3>
+      <h3 align="center">👁️ FOG Technologies Computer Vision Engineer</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Deep%20Learning-RNN%20%2F%20LSTM-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Edge%20AI-Industrial-orange?style=flat-square" />
       </p>
-      <p>Recurrent Neural Network (RNN / LSTM) model built for automated natural language generation, synthesizing creative poetic text with learned cadence and vocabulary.</p>
+      <p>Advanced computer vision algorithms, real-time edge visual perception, and intelligent video analytics pipelines engineered during Computer Vision role at FOG Technologies.</p>
       <p align="center">
-        <a href="https://github.com/KGupta171025/RNN_Poetry_Generation"><b>Explore Repository »</b></a>
+        <a href="https://github.com/KGupta171025/FOG_Technologies_Computer_Vision_Engineer"><b>Explore Repository »</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📊 OIBSIP Data Science Portfolio</h3>
+      <h3 align="center">⚡ Razor-Recovery</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Analytics-Oasis%20Infobyte-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/DevOps-Disaster%20Recovery-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/High%20Availability-Resilience-success?style=flat-square" />
       </p>
-      <p>Comprehensive repository of machine learning, data cleaning, exploratory data analysis (EDA), and predictive modeling projects completed during Oasis Infobyte Internship.</p>
+      <p>Automated disaster recovery, system state synchronization, and intelligent resilience orchestration toolkit for high-reliability data infrastructure and mission-critical systems.</p>
       <p align="center">
-        <a href="https://github.com/KGupta171025/OIBSIP"><b>Explore Repository »</b></a>
+        <a href="https://github.com/KGupta171025/Razor-Recovery"><b>Explore Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Interactive Web Portfolio</h3>
+      <h3 align="center">📚 SHELF-SCANNER</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-OCR-5C3EE8?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%20Recommender-Embeddings-blueviolet?style=flat-square" />
       </p>
-      <p>Interactive web application showcasing project portfolios, engineering timeline, tech stack breakdown, and direct contact options.</p>
+      <p>AI-powered book discovery app that recognizes books from images using Computer Vision and OCR, then recommends similar books using embeddings, semantic search, and recommendation algorithms.</p>
       <p align="center">
-        <a href="https://kgupta171025.github.io/Krishna-Gupta-Portfolio" target="_blank"><b>Live Demo »</b></a> | 
-        <a href="https://github.com/KGupta171025/Krishna-Gupta-Portfolio"><b>Code »</b></a>
+        <a href="https://kgupta171025.github.io/SHELF-SCANNER/" target="_blank"><b>Live Demo »</b></a> | 
+        <a href="https://github.com/KGupta171025/SHELF-SCANNER"><b>Code »</b></a>
       </p>
     </td>
   </tr>
@@ -201,7 +209,7 @@ Passionate About: Designing intelligent autonomous agents, neural consensus engi
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/krishnaofficialgupta)
-  [![Portfolio](https://img.shields.io/badge/Website-Visit%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome)](https://kgupta171025.github.io/Krishna-Gupta-Portfolio)
+  [![Portfolio](https://img.shields.io/badge/Website-Visit%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome)](https://kgupta.is-a.dev)
   [![Email](https://img.shields.io/badge/Email-Send%20a%20Message-D14836?style=for-the-badge&logo=gmail)](mailto:kgupta.171025@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/kgupta_official)
 
